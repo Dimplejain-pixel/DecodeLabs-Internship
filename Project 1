@@ -1,4 +1,5 @@
-#Project1
+
+# Project1
 ```
 print("=" * 60)
 print("🤖 DECODEBOT - RULE BASED AI CHATBOT")
@@ -81,7 +82,8 @@ while True:
     else:
         print("Bot: Sorry, I don't understand that. Type 'help' for commands.")
 ```
-##OUTPUT
+OUTPUT
+http://github.com/Dimplejain-pixel/DecodeLabs-Internship/blob/main/Screenshot%202026-06-08%20130133.png
 
 
 

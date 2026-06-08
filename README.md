@@ -36,3 +36,7 @@ Bot: Hello! How can I help you today?
 You: bye
 
 Bot: Goodbye! Have a nice day.
+
+
+## OUTPUT
+<img width="802" height="786" alt="Screenshot 2026-06-08 125935" src="https://github.com/user-attachments/assets/efbbeb2c-9c0a-4560-bd1f-6f411f00f043" />

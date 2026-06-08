@@ -1,0 +1,88 @@
+#Project1
+```
+print("=" * 60)
+print("🤖 DECODEBOT - RULE BASED AI CHATBOT")
+print("Welcome! Type 'help' to see available commands.")
+print("Type 'bye' to exit.")
+print("=" * 60)
+
+while True:
+    user = input("\nYou: ").lower().strip()
+
+    # Greetings
+    if user in ["hi", "hello", "hey", "good morning", "good evening"]:
+        print("Bot: Hello! Nice to meet you.")
+
+    # Basic conversation
+    elif user == "how are you":
+        print("Bot: I am doing great. Thanks for asking!")
+
+    elif user == "what is your name":
+        print("Bot: My name is DecodeBot.")
+
+    elif user == "who created you":
+        print("Bot: I was created as a Rule-Based AI Chatbot project.")
+
+    elif user == "what can you do":
+        print("Bot: I can answer predefined questions and chat with you.")
+
+    # Education
+    elif user == "what is ai":
+        print("Bot: AI stands for Artificial Intelligence.")
+
+    elif user == "what is python":
+        print("Bot: Python is a popular programming language.")
+
+    elif user == "what is machine learning":
+        print("Bot: Machine Learning is a branch of AI that learns patterns from data.")
+
+    # Personal questions
+    elif user == "where are you from":
+        print("Bot: I live inside this Python program!")
+
+    elif user == "your favorite language":
+        print("Bot: Python is one of my favorite languages.")
+
+    # Fun commands
+    elif user == "tell me a joke":
+        print("Bot: Why do programmers prefer dark mode? Because light attracts bugs!")
+
+    elif user == "motivate me":
+        print("Bot: Every expert was once a beginner. Keep learning and coding!")
+
+    elif user == "thank you" or user == "thanks":
+        print("Bot: You're welcome!")
+
+    # Help menu
+    elif user == "help":
+        print("\n📌 Available Commands:")
+        print("hello")
+        print("how are you")
+        print("what is your name")
+        print("who created you")
+        print("what can you do")
+        print("what is ai")
+        print("what is python")
+        print("what is machine learning")
+        print("where are you from")
+        print("your favorite language")
+        print("tell me a joke")
+        print("motivate me")
+        print("thanks")
+        print("bye")
+
+    # Exit
+    elif user in ["bye", "exit", "quit"]:
+        print("Bot: Goodbye! Have a wonderful day.")
+        break
+
+
+    # Unknown input
+    else:
+        print("Bot: Sorry, I don't understand that. Type 'help' for commands.")
+```
+##OUTPUT
+
+
+
+

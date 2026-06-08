@@ -40,3 +40,51 @@ Bot: Goodbye! Have a nice day.
 
 ## OUTPUT
 <img width="802" height="786" alt="Screenshot 2026-06-08 125935" src="https://github.com/user-attachments/assets/efbbeb2c-9c0a-4560-bd1f-6f411f00f043" />
+
+# AI Data Classification Using Machine Learning
+
+## Description
+
+This project is a Machine Learning Classification Model developed using Python and Scikit-Learn. The model is trained on the Iris Dataset and can classify different flower species based on their features. It demonstrates the basic concepts of supervised learning, model training, testing, and prediction.
+
+## Features
+
+* Loads and processes a dataset
+* Splits data into training and testing sets
+* Trains a Machine Learning model
+* Predicts flower categories
+* Calculates model accuracy
+* Demonstrates supervised learning concepts
+
+## Technologies Used
+
+* Python
+* Scikit-Learn
+* Machine Learning
+
+## How to Run
+
+1. Install Python.
+2. Install Scikit-Learn:
+
+```bash
+pip install scikit-learn
+```
+
+3. Save the project as `project2.py`.
+4. Open Terminal or Command Prompt.
+5. Run the following command:
+
+```bash
+python project2.py
+```
+
+## Example Output
+
+Model Accuracy: 100.0%
+
+Predicted Flower: setosa
+
+## OUTPUT
+<img width="902" height="364" alt="image" src="https://github.com/user-attachments/assets/ab9435c1-07a7-4e17-ab44-609e9524f99a" />
+

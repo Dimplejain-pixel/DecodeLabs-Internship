@@ -88,3 +88,81 @@ Predicted Flower: setosa
 ## OUTPUT
 <img width="902" height="364" alt="image" src="https://github.com/user-attachments/assets/ab9435c1-07a7-4e17-ab44-609e9524f99a" />
 
+# AI Recommendation System
+
+## Description
+
+This is an AI Recommendation System developed using Python. The system recommends items based on the user's selected interest category. It provides personalized suggestions from different domains such as Technology, Sports, Music, Movies, and Books.
+
+## Features
+
+* User-friendly interface
+* Personalized recommendations
+* Multiple recommendation categories
+* Continuous recommendation menu
+* User feedback system
+* Exit option
+* Rule-based recommendation logic
+
+## Technologies Used
+
+* Python
+
+## How to Run
+
+1. Install Python.
+2. Save the project as `project3.py`.
+3. Open Terminal or Command Prompt.
+4. Run the following command:
+
+```bash
+python project3.py
+```
+
+## Available Categories
+
+* Technology
+* Sports
+* Music
+* Movies
+* Books
+
+## Example
+
+Enter Your Name: Dimple
+
+Welcome Dimple!
+
+Available Categories:
+- Technology
+- Sports
+- Music
+- Movies
+- Books
+
+Enter your interest: technology
+
+Analyzing Preferences...
+
+Recommended Items:
+
+1. Python Programming
+2. Machine Learning
+3. Web Development
+4. Data Science
+
+AI Confidence Score: 95%
+
+Recommendation Generated Successfully!
+
+Did you like these recommendations? (yes/no): yes
+
+Great! Glad you liked them.
+
+## OUTPUT
+
+<img width="736" height="721" alt="image" src="https://github.com/user-attachments/assets/c3453f13-e428-4440-b4ff-aefa04d2646e" />
+
+
+
+
